@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em [INOVALAB](https://inovalabdao.com.br/)
 
-- 🌱 I’m currently learning **WEB3**
+- 🌱 I’m currently learning **WEB3** and developing for Blockchain
 
 - 💬 Ask me about **web3, react, python, mysql, and much more.**
 
