@@ -5,7 +5,7 @@
 
 - 🔭 Currently I am working on [PREFEITURA DE CAMPO MAGRO](https://www.campomagro.pr.gov.br/)
 
-- Check out my resume on https://luigibreda.github.io/(https://luigibreda.github.io/)
+- Check out my resume on [LUIGI BREDA](https://luigibreda.github.io/)
 
 - 🌱 I’m currently learning **WEB3** and developing for Blockchain
 
