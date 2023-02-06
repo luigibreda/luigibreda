@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigibreda&label=Visitas+no+Perfil&color=brightgreen" alt="luigibreda" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [PREFEITURA DE CAMPO MAGRO](https://www.campomagro.pr.gov.br/)
+- 🔭 Currently I am working on [PREFEITURA DE CAMPO MAGRO](https://www.campomagro.pr.gov.br/)
+
+- Check out my resume on https://luigibreda.github.io/(https://luigibreda.github.io/)
 
 - 🌱 I’m currently learning **WEB3** and developing for Blockchain
 
