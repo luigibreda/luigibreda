@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luigi Matheus Breda</h1>
+<h1 align="center">Hi 👋, I'm Luigi Matheus Breda =)</h1>
 <h3 align="center">A passionate full-stack developer from Brasil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigibreda&label=Visitas+no+Perfil&color=brightgreen" alt="luigibreda" /> </p>
