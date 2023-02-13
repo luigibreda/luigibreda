@@ -7,7 +7,7 @@
 
 - Check out my resume on [LUIGI BREDA](https://luigibreda.github.io/)
 
-- 🌱 I’m currently learning **WEB3** and developing for Blockchain
+- 🌱 I’m currently learning **WEB3** and developing for Blockchain.
 
 - 💬 Ask me about **web3, react, python, mysql, and much more.**
 
