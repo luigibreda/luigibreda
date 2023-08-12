@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigibreda&label=Visitas+no+Perfil&color=brightgreen" alt="luigibreda" /> </p>
 
-- 🔭 Currently I am working on [PREFEITURA DE CAMPO MAGRO](https://www.campomagro.pr.gov.br/)
+- 🔭 Currently I am working on [UDS TECNOLOGIA]([https://www.campomagro.pr.gov.br/](https://uds.com.br))
 
 - Check out my resume on [LUIGI BREDA](https://luigibreda.github.io/)
 
-- 🌱 I’m currently learning **WEB3** and developing for Blockchain.
+- 🌱 I’m currently learning **WEB3** and developing for Blockchain and others (Python, C#, Node, Express, SQL Server, MongoDB).
 
 - 💬 Ask me about **web3, react, python, mysql, and much more.**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luigi-matheus-34a42861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-matheus-34a42861" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luigibreda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-matheus-34a42861" height="30" width="40" /></a>
 <a href="https://instagram.com/luigibredaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luigibredaa" height="30" width="40" /></a>
 </p>
 
