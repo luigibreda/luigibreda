@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigibreda&label=Visitas+no+Perfil&color=brightgreen" alt="luigibreda" /> </p>
 
-- 🔭 Currently I am working on [UDS TECNOLOGIA]([https://www.campomagro.pr.gov.br/](https://uds.com.br))
+- 🔭 Currently I am working on [UDS TECNOLOGIA](https://uds.com.br)
 
 - Check out my resume on [LUIGI BREDA](https://luigibreda.github.io/)
 
