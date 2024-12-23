@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WEB3** and developing for Blockchain and others (Python, C#, Node, Express, SQL Server, MongoDB).
 
-- 💬 Ask me about **web3, react, python, mysql, and much more.**
+- 💬 Ask me about **web3, .net, aspnet, webforms, nextjs, sqlserver, mongodb, php, cypress, react, python, mysql, and much more.**
 
 - 📫 How to reach me **luigimatheus@hotmail.com**
 
